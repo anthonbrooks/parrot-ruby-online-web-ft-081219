@@ -2,5 +2,5 @@
 # returns the phrase
 
 def parrot (out="Squawk!")
-  print "#{out}"
+  puts "#{out}"
 end
